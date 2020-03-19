@@ -1,0 +1,328 @@
+{
+   "SUBLIMATIONS": [
+      {
+         "CHASSES": "RBB",
+         "NOM": "Vivacité",
+         "EFFETS": "1 PA, -75 Résistance Élémentaire",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "VRR",
+         "NOM": "Vélocité",
+         "EFFETS": "1 PM, -10% Dommages Infligés",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "BVV",
+         "NOM": "Visibilité",
+         "EFFETS": "1 PO, -150 Esquive, -150 Tacle",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "BBB",
+         "NOM": "Dévastation",
+         "EFFETS": "1 PW, -20 Volonté",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "RBV",
+         "NOM": "Dimensionnalité",
+         "EFFETS": "Commence le combat avec +1 PW max non régénérable",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "VBV",
+         "NOM": "Influence",
+         "EFFETS": "5% Coup Critique",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "RVV",
+         "NOM": "Influence II",
+         "EFFETS": "3% Coup Critique par tour (max 40)",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "BVV",
+         "NOM": "Expert des Coups Critiques",
+         "EFFETS": "En fin de tour, si un coup critique a été effectué : soigne de 4% des PV manquants (de manière fixe)",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "VBV",
+         "NOM": "Stupéfaction",
+         "EFFETS": "10% Coup Critique le premier tour de jeu",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "RVV",
+         "NOM": "Critique Berserk",
+         "EFFETS": "Augmente les Coups Critiques de 10% quand les PV sont en dessous de 50%",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "BVR",
+         "NOM": "Théorie de la matière",
+         "EFFETS": "-50% Dommages et Soins Réalisés, +100% Coup Critique",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "BBV",
+         "NOM": "Dérobade",
+         "EFFETS": "10% Parade le premier tour de jeu",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "RRV",
+         "NOM": "Dérobade II",
+         "EFFETS": "3% Parade par tour (max 40)",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "BBR",
+         "NOM": "Epines",
+         "EFFETS": "Effectuer une Parade donne 2 niveaux de Préparation",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "VBB",
+         "NOM": "Expert des Parades",
+         "EFFETS": "-50 Résistance Élémentaire, les Parades réduisent les dommages de 15% supplémentaires",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "BVB",
+         "NOM": "Parade Berserk",
+         "EFFETS": "Augmente la Parade de 10% quand les PV sont en dessous de 50%",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "VVV",
+         "NOM": "Ravage",
+         "EFFETS": "Toutes les maîtrises et résistances : +10",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "VVV",
+         "NOM": "Ravage II",
+         "EFFETS": "Coup Critique, Parade, Volonté : +3",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "RRB",
+         "NOM": "Cicatrisation",
+         "EFFETS": "10% PV max (additionnel à la statistique en \"Intelligence\")",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "RRV",
+         "NOM": "Carnage",
+         "EFFETS": "40 Maîtrise Élémentaire si les PV sont > 90%",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "BBR",
+         "NOM": "Embuscade",
+         "EFFETS": "5% aux Dommages infligés à 1 PO",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "RRB",
+         "NOM": "Embuscade II",
+         "EFFETS": "10% Dommages infligés à 2 PO",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "BRR",
+         "NOM": "Longueur",
+         "EFFETS": "5% aux dommages en ligne à 2 PO ou plus",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "RRR",
+         "NOM": "Ruine",
+         "EFFETS": "10% dommages indirects (dégâts occasionnés par le lanceur en dehors de son tour)",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "RRR",
+         "NOM": "Ruine II",
+         "EFFETS": "20% Dommages indirects dans les tours de table pairs",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "RVB",
+         "NOM": "Frénésie",
+         "EFFETS": "-20% Dommages infligés, 10% Dommages infligés par ennemi touché au début du prochain tour",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "RVB",
+         "NOM": "Frénésie II",
+         "EFFETS": "-15% Dommages infligés, 5% Dommages infligés par entité touchée au début du prochain tour",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "VRR",
+         "NOM": "Frénésie III",
+         "EFFETS": "-15% Dommages infligés, 25% Dommages infligés pour le prochain tour si un seul ennemi est touché",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "VBR",
+         "NOM": "Ecailles de lune",
+         "EFFETS": "5% Armures reçues",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "RBB",
+         "NOM": "Enveloppe rocheuse",
+         "EFFETS": "5% aux Armures données aux alliés",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "BVB",
+         "NOM": "Topologie",
+         "EFFETS": "Au début du combat : toute l'esquive est convertie en Armure. L'esquive convertie est perdue.",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "RVB",
+         "NOM": "Muraille",
+         "EFFETS": "Commence le combat avec 300% du niveau en Armure",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "RVR",
+         "NOM": "Solidité",
+         "EFFETS": "Réduit les dommages directs reçus supérieurs à 20% des PV max, de 400% du niveau (une fois par tour de table)",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "VVR",
+         "NOM": "Barrière Distance",
+         "EFFETS": "Réduit les Dommages Distance reçus de 50% du niveau, 3 fois par tour",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "VVB",
+         "NOM": "Barrière Mêlée",
+         "EFFETS": "Réduit les Dommages Mêlée reçus de 50% du niveau, 3 fois par tour",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "VVR",
+         "NOM": "Détermination",
+         "EFFETS": "-15% Dommages indirects reçus (dégâts reçus en dehors du tour du lanceur des dégâts)",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "BRV",
+         "NOM": "Retour",
+         "EFFETS": "Regagne 1 PA après avoir tué un ennemi",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "BRV",
+         "NOM": "Retour II",
+         "EFFETS": "Regagne 1 PM après avoir tué un ennemi",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "VRB",
+         "NOM": "Endurance",
+         "EFFETS": "Réduit les malus de caractéristiques reçus de 10%",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "VRB",
+         "NOM": "Endurance II",
+         "EFFETS": "Augmente les bonus de caractéristiques reçus de 5%",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "VRV",
+         "NOM": "Puits de Vitalité",
+         "EFFETS": "Augmente l'efficacité des capacités de vol de vie de 10%",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "BBB",
+         "NOM": "Tacle Berserk",
+         "EFFETS": "20% au Tacle quand les PV sont en dessous de 50%",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "BBV",
+         "NOM": "Esquive Berserk",
+         "EFFETS": "20% à l'Esquive quand les PV sont en dessous de 50%",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "BRR",
+         "NOM": "Sauvegarde",
+         "EFFETS": "En fin de tour : Transfère un PA non utilisé pour le tour suivant",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "VBB",
+         "NOM": "Bonne action",
+         "EFFETS": "En fin de tour : Transfère un PA non utilisé à l'allié le plus proche",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "VVB",
+         "NOM": "Ténacité",
+         "EFFETS": "20 Résistance élémentaire pour 1 tour si finit son tour avec 2 PA ou plus",
+         "CUMUL": 2
+      },
+      {
+         "CHASSES": "RVR",
+         "NOM": "Ténacité II",
+         "EFFETS": "60 Résistance Élémentaire pour 2 tours si finit son tour avec 6 PA ou plus",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "BVR",
+         "NOM": "Cyclothymie",
+         "EFFETS": "Tour pair : 20 Volonté, tour impair : -20 Volonté",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "VRV",
+         "NOM": "Réprobation",
+         "EFFETS": "-20 Volonté, réduit de 1 un retrait PA subi par tour",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "VBR",
+         "NOM": "Réprobation II",
+         "EFFETS": "-20 Volonté, réduit de 1 un retrait PM subi par tour",
+         "CUMUL": 3
+      },
+      {
+         "CHASSES": "RBR",
+         "NOM": "Fermeté",
+         "EFFETS": "Après avoir subi une perte de 3 PA : +20 volonté pour 1 tour",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "RBR",
+         "NOM": "Fermeté II",
+         "EFFETS": "Après avoir subi une perte de 2 PA : +10 volonté pour 1 tour",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "BRB",
+         "NOM": "Légèreté",
+         "EFFETS": "Après avoir subi une perte de 3 PM : +20 volonté pour 1 tour",
+         "CUMUL": 1
+      },
+      {
+         "CHASSES": "BRB",
+         "NOM": "Légèreté II",
+         "EFFETS": "Après avoir subi une perte de 2 PM : +10 volonté pour 1 tour",
+         "CUMUL": 1
+      }
+   ]
+}
