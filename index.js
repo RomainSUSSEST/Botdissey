@@ -16,7 +16,9 @@ for (const file of commandFiles) {
 console.log(client.commands);
 
 client.once('ready', () => {
-    console.log("Ready !")
+	console.log("Ready !");
+	client.user.setActivity('$help', {type: 'LISTENING'});
+	client.user.setStatus('dnd');
 });
 
 client.once('reconnecting', () => {
